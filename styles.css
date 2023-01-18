@@ -1,9 +1,29 @@
 html {
-    background-image: radial-gradient(ellipse closest-corner, #24283b, #1a1b26); 
-    background-size: contain;
-    background-attachment: fixed;
+  background-image: radial-gradient(ellipse closest-corner, #24283b, #1a1b26); 
+  background-size: contain;
+  background-attachment: fixed;
 
-    color: #c0caf8;
-    font-family: "Lato", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.125em;
+  color: #c0caf8;
+  font-family: "Lato", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1.125em;
+}
+
+h1 {
+
+}
+
+a:link {
+  color: #bebef7;
+}
+
+a:hover {
+  color: #bedaf7;
+}
+
+a:active {
+  color: #dabef7;
+}
+
+a:visited {
+  color: #f7f7be;
 }
